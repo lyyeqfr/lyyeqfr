@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @lyyeqfr
 - 👀 I’m interested in front-end web develop
-- 🌱 I’m currently learning vue3,go
+- 🌱 I’m currently learning vue3, go
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 --->
